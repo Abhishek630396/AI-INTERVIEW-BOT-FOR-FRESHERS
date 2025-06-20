@@ -10,15 +10,6 @@ What this project does:
 5. 📝 Saves a transcript of Q\&A
 6.  Sends resume + transcript to HR via email
 7. Allows the user to watch their recorded interview video
-
- Folder Structure (after running):
-AI Interview Bot
-│
-├── resume_uploaded.pdf                   ← Uploaded resume (copied here)
-├── interview_record.avi                       ← Video recorded from webcam
-├── interview_transcript.txt                ← Questions, answers & final score
-├── your_script.py                                   ← Main Python script
-└── README.txt                                          ← This instruction file
 Technologies Used:
 * 🐍 Python
 * 🎤 `speech recognition` for voice input
